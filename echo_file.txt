@@ -2,3 +2,17 @@ another file
 
 2.1 Основы Git - Создание Git-репозитория
 Если вы хотите начать работать с Git, прочитав всего одну главу, то эта глава — то, что вам нужно. Здесь рассмотрены все базовые команды, необходимые вам для решения подавляющего большинства задач, возникающих при работе с Git. После прочтения этой главы вы научитесь настраивать и инициализировать репозиторий, начинать и прекращать контроль версий файлов, а также подготавливать и фиксировать изменения. Мы также продемонстрируем вам, как настроить в Git игнорирование отдельных файлов или их групп, как быстро и просто отменить ошибочные изменения, как просмотреть историю вашего проекта и изменения между отдельными коммитами (commit), а также как отправлять (push) и получать (pull) изменения в/из удалённого (remote) репозитория.
+
+Till & ABF Stockholm                                                                                         26 jan 2020
+Sveavägen 41
+Katerina Andersson
+
+Hej!
+
+Mitt namn är Anastasia Romanova. Nu bor jag i Stockholm med min man och katt. Jag tycker vårt liv och frihet. 
+
+Jag växte upp i en familj med tre barn. Jag har en äldre bror och syster. Jag är yngst i min familj. Min mamma uppfostrade oss, så hon hade det svårt. Men vi försökte hjälpa henne med hushållssysslor under från barndomen. Vi är en vänlig familj.
+
+Det finns flera nackdelar med en stor familj. Till exempel jag hade jag aldrig mitt eget rum. Jag var tvungen att ha på mig bära min äldre systers kläder. Vi åkte gick sällan på resor eftersom det var dyrt. 
+
+Naturligtvis finns det många fördelar med att ha en stor familj. Nyårsferier i en stor familj är en speciell tid. Ni Man lagar mat tillsammans, arrangerar fester och tävlingar. Det är alltid kul i en stor familj. I ett svårt ögonblick finns det alltid stöd från släktingar. Du/man är aldrig ensam. Bröder och systrar är dina vänner för livet. 
